@@ -35,10 +35,10 @@ IPv6 (Internet Protocol v 6): Более версия IP-адресов, исп�
 
 ## Task 4:
 
-!/bin/bash
-for ((i=1; i <= 10; i++))
-do
-echo $i
+!/bin/bash  
+for ((i=1; i <= 10; i++))  
+do  
+echo $i  
 done
 
 
